@@ -6,7 +6,7 @@ package perpusgui;
 
 /**
  *
- * @author lenovo
+ * @author wodwopjdpoqjdpoqjpdo
  */
 public class PerpusGUI {
 
